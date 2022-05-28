@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Madhavi Kapadia's Portfolio
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Hi! I am a graduate student pursing her Masters in Business Analytics from the College of William and Mary and this is my portfolio. 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
