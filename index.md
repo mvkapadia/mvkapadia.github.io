@@ -1,6 +1,6 @@
 ---
 title: Madhavi's Portfolio
-description:
+description: A portfolio with work from my CTBA course. 
 ---
 
 <img src="/pics/IMG_1983.JPG" width="30%" height="30%">
