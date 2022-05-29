@@ -8,4 +8,5 @@ Here are Basic Matplotlib Graphs that were created for my CTBA course per the pr
 - [Basic Graph Assignment(ipynb)](BasicGraphAssignment.ipynb)
 
 Link back to the Site Landing Page
-- [Site Landing Page](https://mvkapadia.github.io)
+- [Site Landing Page](/mvkapadia.github.io/index.md)
+
