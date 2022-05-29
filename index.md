@@ -3,7 +3,7 @@ title: Madhavi's Portfolio
 description:
 ---
 
-<img src="/pics/IMG_1983.JPG" width="50%" height="50%">
+<img src="/pics/IMG_1983.JPG" width="30%" height="30%">
 
 Basic Matplotlib Graphs that I've developed for my for my CTBA course:
 
