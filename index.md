@@ -10,4 +10,4 @@ Basic Matplotlib Graphs that I've developed for my for my CTBA course:
 - [Basic Graph Assignment](/M2: Basic Matplotlib Graphing/index.md)
 
 Here is the link to the .csv files that were used to generate the Basic Matplotlib Graphs: 
-- [MSBA File Repository](https://github.com/mvkapadia/MSBA)
+- [MSBA Repository](https://github.com/mvkapadia/MSBA)
