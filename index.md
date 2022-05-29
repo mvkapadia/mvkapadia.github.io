@@ -4,7 +4,7 @@ description:
 ---
 
 
-![My Picture](/pics/IMG_1983.JPG)
+![My Picture](/pics/IMG_1983.JPG) 
 
 Basic Matplotlib Graphs that I've developed for my for my CTBA course:
 
